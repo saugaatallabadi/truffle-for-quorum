@@ -1,4 +1,4 @@
-# truffle-for-quorum
+# Truffle For Quorum
 
 Using Truffle Framework for Private Transactions on Quorum
 
