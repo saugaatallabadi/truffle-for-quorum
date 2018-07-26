@@ -1,6 +1,6 @@
 # Truffle For Quorum
 
-Using Truffle Framework for Private Transactions on Quorum
+Using Truffle Framework for Private Transactions on Quorum with Web3.js
 
 ## Requirements
 This tutorial expects you to have some knowledge of Truffle, Ethereum, Quorum, and Solidity. For more information on these topics, please see the following links:
