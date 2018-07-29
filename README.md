@@ -10,7 +10,7 @@ This tutorial expects you to have some knowledge of Truffle, Ethereum, Quorum, a
 - Quorum overview and documentation
 - Solidity documentation
 
-## Additionally, you will need the following software installed before proceeding:
+### Additionally, you will need the following software installed before proceeding:
 
 - VirtualBox
 - Vagrant
