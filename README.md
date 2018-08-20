@@ -1,9 +1,7 @@
 # Truffle For Quorum
 
-
-<img src="https://truffleframework.com/img/truffle-logo-light.svg" style="max-width:100%;">
-
-
+</br>
+<img src="https://truffleframework.com/img/truffle-logo-light.svg" width = 500>
 Using Truffle Framework for Private Transactions on Quorum with Web3.js
 
 ## Requirements
