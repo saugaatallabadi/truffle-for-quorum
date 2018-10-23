@@ -2,7 +2,7 @@
 
 </br>
 <img src="https://truffleframework.com/img/truffle-logo-light.svg" width = 300>
-Using Truffle Framework for Private Transactions on Quorum with Web3.js
+Using Truffle Framework for Private Transactions on Quorum with <strongWeb3.js</strong>
 
 ## Requirements
 This tutorial expects you to have some knowledge of Truffle, Ethereum, Quorum, and Solidity. For more information on these topics, please see the following links:
